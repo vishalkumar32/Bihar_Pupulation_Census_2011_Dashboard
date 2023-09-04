@@ -4,7 +4,8 @@
 This Power BI dashboard provides insights and visualizations based on the population census data of Bihar from the year 2011. It utilizes SQL as the data source to fetch and manipulate the data for generating meaningful insights. The dashboard is designed to help users explore and analyze demographic information about Bihar's population.
 
 
-![Dashboard](PowerBI_dashboard.png)
+![PowerBI_dashboard](https://github.com/vishalkumar32/Bihar_Pupulation_Census_2011_Dashboard/assets/111268202/9c540d03-c280-421a-821c-5916784d2f65)
+
 
 
 ## Features
